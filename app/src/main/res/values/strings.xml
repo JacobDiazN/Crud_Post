@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">WebService2</string>
+    <string name="btnObtenerPost">Obtener Post por ID</string>
+    <string name="btnBuscarPosts">Buscar Post</string>
+    <string name="btnInsertarPosts">Insertar Post DB</string>
+    <string name="btnMostrarPosts">Mostrar Post DB</string>
+    <string name="btnMostrarID">Mostrar ID</string>
+    <string name="btnListarPosts">Listar Post URL</string>
+    <string name="btnCrearPost">Crear Post DB</string>
+    <string name="btnActualizarPost">Actualizar Post DB</string>
+    <string name="btnEliminarPost">Eliminar Post DB</string>
+    <string name="btnEliminarID">Eliminar ID</string>
+    <string name="txt_id">ID</string>
+    <string name="boton_regresar">Regresar</string>
+    <string name="boton_registrar">Registrar</string>
+    <string name="boton_buscar">Buscar</string>
+    <string name="boton_modificar">Modificar</string>
+    <string name="boton_eliminar">Eliminar</string>
+    <string name="boton_limpiar">Limpiar</string>
+    <string name="TextView_Title">Title</string>
+    <string name="TextView_Body">Body</string>
+    <string name="TextView_UserId">UserId</string>
+    <string name="TextView_Datos">Datos</string>
+    <string name="TextView_ID_Actualizar">ID a actualizar</string>
+    <string name="boton_Mostrar_Datos">Mostrar Datos</string>
+    <string name="TextView_Nuevo_Title">Nuevo Title</string>
+    <string name="TextView_Nuevo_Body">Nuevo Body</string>
+    <string name="TextView_Nuevo_UserId">Nuevo UserId</string>
+    <string name="btnActualizarDatos">Actualizar Datos</string>
+    <string name="title_activity_app_mapa">AppMapa</string>
+</resources>
